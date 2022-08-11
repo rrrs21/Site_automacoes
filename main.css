@@ -1,0 +1,52 @@
+.navbar{
+    background-color: #394e5a;
+    padding-left: 40px;
+    padding-bottom: 130px;
+    margin-bottom: 30px;
+    color: #fff;
+
+      
+}
+.navbar4{
+    background-color: transparent;
+}
+
+.nav{
+    justify-content: center;
+
+}
+.navbar2{
+    background-image: url("https://www.zigma.com.br/novo/wp-content/uploads/2020/02/banner-home.jpg");
+    object-position: center;
+    text-align: center;
+    padding-left: 400px;
+    padding-top: 200px; 
+    
+         
+}
+.nav-link {
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-weight: bold;
+    padding-left: 100px;
+    
+}
+
+.bd-example{
+    box-sizing: border-box;
+}
+
+.imagem_fundo { 
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.formulario {
+    display: flexbox;
+    padding: 15px;
+    margin: 20px 20px;
+    justify-content: center;
+    flex-direction: row;
+    font-size: larger;
+}
